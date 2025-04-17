@@ -35,7 +35,7 @@ function MainSection() {
                     <SwiperItemWrapper>
                         <div className='container flex'>
                             <div>
-                                <h1 className='swiper-main-title'>Скидка 15% на все подвесные светильники <span>до 5 февраля</span></h1>
+                                <h1 className='swiper-main-title'>Скидка 15% <br /> на все подвесные светильники <br /> <span >до 5 февраля</span></h1>
                             </div>
                             <div>
                                 <img src={SliderImage1} alt="Lamps" />
@@ -47,7 +47,7 @@ function MainSection() {
                     <SwiperItemWrapper>
                         <div className='container flex'>
                             <div>
-                                <h1 className='swiper-main-title'>Скидка 15% на все подвесные светильники <span>до 5 февраля</span></h1>
+                                <h1 className='swiper-main-title'>Скидка 15% <br /> на все подвесные светильники <br /> <span >до 5 февраля</span></h1>
                             </div>
                             <div>
                                 <img src={SliderImage1} alt="Lamps" />
@@ -59,7 +59,7 @@ function MainSection() {
                     <SwiperItemWrapper>
                         <div className='container flex'>
                             <div>
-                                <h1 className='swiper-main-title'>Скидка 15% на все подвесные светильники <span>до 5 февраля</span></h1>
+                                <h1 className='swiper-main-title'>Скидка 15% <br /> на все подвесные светильники <br /> <span >до 5 февраля</span></h1>
                             </div>
                             <div>
                                 <img src={SliderImage1} alt="Lamps" />
@@ -71,7 +71,7 @@ function MainSection() {
                     <SwiperItemWrapper>
                         <div className='container flex'>
                             <div>
-                                <h1 className='swiper-main-title'>Скидка 15% на все подвесные светильники <span>до 5 февраля</span></h1>
+                                <h1 className='swiper-main-title'>Скидка 15% <br /> на все подвесные светильники <br /> <span >до 5 февраля</span></h1>
                             </div>
                             <div>
                                 <img src={SliderImage1} alt="Lamps" />
@@ -83,7 +83,7 @@ function MainSection() {
                     <SwiperItemWrapper>
                         <div className='container flex'>
                             <div>
-                                <h1 className='swiper-main-title'>Скидка 15% на все подвесные светильники <span>до 5 февраля</span></h1>
+                                <h1 className='swiper-main-title'>Скидка 15% <br /> на все подвесные светильники <br /> <span >до 5 февраля</span></h1>
                             </div>
                             <div>
                                 <img src={SliderImage1} alt="Lamps" />

@@ -4,6 +4,7 @@ import { colors } from '@/styles/theme';
 export const SectionWrapper = styled.section`
   padding: 40px 0;
   background-color: ${colors.white};
+  margin-bottom: 71px;
 `;
 
 export const FeatureGrid = styled.div`

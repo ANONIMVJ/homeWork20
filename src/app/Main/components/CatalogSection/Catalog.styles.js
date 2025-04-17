@@ -2,7 +2,8 @@ import styled from "styled-components";
 import { colors } from '@/styles/theme';
 import { SwiperSlide } from "swiper/react";
 
-export const CatalogContainer = styled.div``;
+export const CatalogContainer = styled.div`
+`;
 
 export const Header = styled.div`
   display: flex;

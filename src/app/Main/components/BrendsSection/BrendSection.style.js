@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import { colors } from "@/styles/theme"
-import { SwiperSlide } from "swiper/react";
 
 export const BrendsSectionWrapper = styled.div`
     padding-bottom:  100px;

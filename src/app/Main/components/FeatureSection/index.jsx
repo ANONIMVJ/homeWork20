@@ -1,4 +1,3 @@
-// src/app/Main/components/FeatureSection/index.jsx
 import React from "react";
 import {
   SectionWrapper,

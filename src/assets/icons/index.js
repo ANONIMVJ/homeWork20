@@ -12,3 +12,4 @@ export { default as StarIcon } from './Star';
 export { default as DollarIcon } from './Dollar';
 export { default as ExpressIcon } from './Express';
 export { default as MenuToolIcon } from './MenuTool';
+export { default as ArrowUpIcon } from './ArrowUp';
