@@ -27,10 +27,28 @@ export const SwiperItemWrapper = styled.div`
     .flex {
         display: flex;
         align-items: center;
-        justify-content: space-between;
+        justify-content: space-around;
 
         .swiper-main-title {
             max-width: 500px;
+            font-weight: 700;
+            font-size: 55px;
+            line-height: 100%;
+            letter-spacing: 0%;
+            color: ${colors.main};
+
+        }
+        span{
+            background-color: ${colors.main};
+            color: ${colors.white};
+            width: 495px;
+            padding: 5px 25px;
+            height: 86px;
+            border-radius: 100px;
+            position: relative;
+            top: 20px;
+            right: 25px;
+
         }
     }
 `;
